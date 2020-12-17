@@ -1,5 +1,7 @@
 # Team18_project
 
+A team project to make a reservation website that allows you to reserve at grocery stores and restaurants. 
+
 Top level of project folder: 
     ├── .gitignore           # Git ignore file
     ├── index.html           # Signup/Login page
